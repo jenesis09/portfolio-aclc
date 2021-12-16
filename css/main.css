@@ -1,0 +1,47 @@
+.main-header {
+  background: url(../img/background.jpg);
+  min-height: 750px;
+  background-position: center;
+  background-size: cover;
+  color: black;
+  font-family: cursive;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+  image: center;
+}
+
+.merch-header {
+  background: url(../img/bgfandom.jpg);
+  min-height: 750px;
+  background-position: center;
+ font-family: cursive;
+}
+.bp-header {
+ font-family: cursive;
+}
+.bts-header {
+ font-family: cursive;
+}
+.rv-header {
+ font-family: cursive;
+}
+.twice-header {
+ 
+ font-family: cursive;
+}
+.exo-header {
+ font-family: cursive;
+}
+.itzy-header {
+ font-family: cursive;
+}
+.main-header-inner {
+  background: url(../img/background.jpg);
+  min-height: 750px;
+  background-position: center;
+  background-size: cover;
+  color: black;
+  font-family: cursive;
+}
